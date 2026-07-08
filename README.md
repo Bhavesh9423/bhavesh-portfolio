@@ -25,7 +25,11 @@
 > Replace the image below with a screenshot of your portfolio.
 
 ```text
-📷 screenshots/home.png
+<img width="1696" height="668" alt="Screenshot 2026-07-08 223635" src="https://github.com/user-attachments/assets/8715ad6d-c5de-4aea-8d48-ccf14307f6cb" />
+<img width="1695" height="668" alt="Screenshot 2026-07-08 223649" src="https://github.com/user-attachments/assets/b65ce5c4-2db3-4ff2-959e-97b78439149d" />
+<img width="1908" height="911" alt="Screenshot 2026-07-08 223806" src="https://github.com/user-attachments/assets/573a7b93-3586-42ef-9c21-2675db1202d6" />
+<img width="1918" height="748" alt="Screenshot 2026-07-08 223825" src="https://github.com/user-attachments/assets/f3aab296-4e2d-4343-9c70-bdb042d8e657" />
+<img width="1910" height="895" alt="Screenshot 2026-07-08 231710" src="https://github.com/user-attachments/assets/a1aa421d-a84d-4990-ae33-0145f2da13b2" />
 ```
 
 ---
