@@ -25,7 +25,7 @@ const CONTACT_METHODS: ContactMethod[] = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'https://www.linkedin.com/in/bhavesh-oswal-6aa16a288?utm_source=share_via&utm_content=profile&utm_medium=member_ios',
+    value: 'https://www.linkedin.com/in/bhavesh-oswal-6aa16a288',
     href: 'https://www.linkedin.com/in/bhavesh-oswal-6aa16a288/',
   },
   {
