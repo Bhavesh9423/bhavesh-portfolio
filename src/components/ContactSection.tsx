@@ -25,13 +25,13 @@ const CONTACT_METHODS: ContactMethod[] = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'https://www.linkedin.com/in/bhavesh-oswal-6aa16a288',
+    value: 'in/bhavesh-oswal-6aa16a288',
     href: 'https://www.linkedin.com/in/bhavesh-oswal-6aa16a288/',
   },
   {
     icon: Github,
     label: 'GitHub',
-    value: 'https://github.com/Bhavesh9423',
+    value: '@Bhavesh9423',
     href: 'https://github.com/Bhavesh9423',
   },
 ];
